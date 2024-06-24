@@ -1,0 +1,9 @@
+@font-face {
+    font-family: odin;
+    src: url("./fonts/Norse-Bold.otf");
+}
+
+body {
+    display: flex;
+}
+/* image and logo */
